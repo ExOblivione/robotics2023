@@ -14,4 +14,5 @@ The following files are copied from MATLAB’s folders to the working directory:
 - remoteApi.dll 
 - remoteApiProto.m 
 
-Detailed description to be found in the following Medium story:
+Detailed description to be found in the following Medium story: https://medium.com/@evepardi/controlling-a-kuka-youbot-e3446643c74c
+Video of presentation: https://www.youtube.com/watch?v=SFm874roJJA
