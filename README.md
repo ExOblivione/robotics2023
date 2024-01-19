@@ -14,3 +14,4 @@ The following files are copied from MATLAB’s folders to the working directory:
 - remoteApi.dll 
 - remoteApiProto.m 
 
+Detailed description to be found in the following Medium story:
